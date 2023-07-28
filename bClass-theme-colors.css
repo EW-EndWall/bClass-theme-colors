@@ -2,6 +2,7 @@
     * *
     * *
 */
+body,
 body.dark {
   --headerBg: #252525;
   --headerText: #90949c;
