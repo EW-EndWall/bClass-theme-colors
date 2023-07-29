@@ -1,6 +1,7 @@
-/*  * *
-    * *
-    * *
+/*  * * Bclass colors v1.0.0 (--)
+    * * Copyright 2021-2023 The Bclass Authors
+    * * Licensed (--)
+    * * Update (--)
 */
 body,
 body.dark {
@@ -42,6 +43,7 @@ body.transparent {
   --contentBgSecondary: transparent;
   --contentTextSecondary: #424242;
   --plainBg: url("https://www.w3schools.com/css/paris.jpg");
+  background-image: var(--plainBg);
   color: var(--contentTextSecondary);
 }
 body {
