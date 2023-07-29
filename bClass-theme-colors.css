@@ -45,6 +45,5 @@ body.transparent {
   color: var(--contentTextSecondary);
 }
 body {
-  --bgTransparent: transparent;
-  --colorTransparent: transparent;
+  --transparent: transparent;
 }

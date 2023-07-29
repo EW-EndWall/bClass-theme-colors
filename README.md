@@ -10,3 +10,5 @@
 - contentBgSecondary: Content secondary background.
 - contentTextSecondary: Content secondary text.
 - plainBg: plain background.
+
+- transparent: transparent;
