@@ -49,3 +49,9 @@ body.transparent {
 body {
   --transparent: transparent;
 }
+.bg-transparent {
+  background: rgba(0, 0, 0, 0);
+}
+.text-transparent {
+  color: rgba(0, 0, 0, 0);
+}

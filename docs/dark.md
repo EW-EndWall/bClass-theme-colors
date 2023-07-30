@@ -1,10 +1,7 @@
-## Default settings
+# Dark mode
 
 ```css
-body {
-  --transparent: transparent;
-}
-body {
+body.dark {
   --headerBg: #252525;
   --headerText: #90949c;
   --footerBg: #252525;

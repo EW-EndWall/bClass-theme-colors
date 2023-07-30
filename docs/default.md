@@ -1,7 +1,10 @@
-## Dark mode
+# Default settings
 
 ```css
-body.dark {
+body {
+  --transparent: transparent;
+}
+body {
   --headerBg: #252525;
   --headerText: #90949c;
   --footerBg: #252525;
@@ -14,5 +17,11 @@ body.dark {
   --plainBg: #101010;
   background-color: var(--plainBg);
   color: var(--contentTextSecondary);
+}
+.bg-transparent {
+  background: rgba(0, 0, 0, 0);
+}
+.text-transparent {
+  color: rgba(0, 0, 0, 0);
 }
 ```

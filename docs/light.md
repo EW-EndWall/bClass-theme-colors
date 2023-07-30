@@ -1,4 +1,4 @@
-## Light mode
+# Light mode
 
 ```css
 body.light {

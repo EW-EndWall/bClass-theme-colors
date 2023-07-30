@@ -1,4 +1,4 @@
-## Transparent mode
+# Transparent mode
 
 ```css
 body.transparent {
