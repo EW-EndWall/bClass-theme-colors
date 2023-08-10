@@ -13,6 +13,6 @@ body.light {
   --contentTextSecondary: #424242;
   --plainBg: #cfd8dc;
   background-color: var(--plainBg);
-  color: var(--contentTextSecondary);
+  color: var(--contentTextPrimary);
 }
 ```

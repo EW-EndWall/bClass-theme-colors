@@ -13,6 +13,6 @@ body.transparent {
   --contentTextSecondary: #424242;
   --plainBg: url("https://www.w3schools.com/css/paris.jpg");
   background-image: var(--plainBg);
-  color: var(--contentTextSecondary);
+  color: var(--contentTextPrimary);
 }
 ```

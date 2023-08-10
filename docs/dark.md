@@ -13,6 +13,6 @@ body.dark {
   --contentTextSecondary: #f5f5f5;
   --plainBg: #101010;
   background-color: var(--plainBg);
-  color: var(--contentTextSecondary);
+  color: var(--contentTextPrimary);
 }
 ```

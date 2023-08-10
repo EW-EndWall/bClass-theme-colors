@@ -17,7 +17,7 @@ body.dark {
   --contentTextSecondary: #f5f5f5;
   --plainBg: #101010;
   background-color: var(--plainBg);
-  color: var(--contentTextSecondary);
+  color: var(--contentTextPrimary);
 }
 /* * color light */
 body.light {
@@ -32,7 +32,7 @@ body.light {
   --contentTextSecondary: #424242;
   --plainBg: #cfd8dc;
   background-color: var(--plainBg);
-  color: var(--contentTextSecondary);
+  color: var(--contentTextPrimary);
 }
 /* * color transparent */
 body.transparent {
@@ -47,7 +47,7 @@ body.transparent {
   --contentTextSecondary: #424242;
   --plainBg: url("https://www.w3schools.com/css/paris.jpg");
   background-image: var(--plainBg);
-  color: var(--contentTextSecondary);
+  color: var(--contentTextPrimary);
 }
 /* * color black */
 body.black {
@@ -62,7 +62,7 @@ body.black {
   --contentTextSecondary: #90949c;
   --plainBg: #252525;
   background-color: var(--plainBg);
-  color: var(--contentTextSecondary);
+  color: var(--contentTextPrimary);
 }
 body {
   --transparent: transparent;
