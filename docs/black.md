@@ -8,5 +8,5 @@
 - --contentBgPrimary: #505050;
 - --contentTextPrimary: #818181;
 - --contentBgSecondary: #111111;
-- --contentTextSecondary: #90949c;
+- --contentTextSecondary: #f5f5f5;
 - --plainBg: #252525;
