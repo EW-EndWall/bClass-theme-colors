@@ -59,8 +59,8 @@ body.black {
   --contentBgPrimary: #505050;
   --contentTextPrimary: #818181;
   --contentBgSecondary: #111111;
-  --contentTextSecondary: #90949c;
-  --plainBg: #252525;
+  --contentTextSecondary: #f5f5f5;
+  --plainBg: #101010;
   background-color: var(--plainBg);
   color: var(--contentTextPrimary);
 }
