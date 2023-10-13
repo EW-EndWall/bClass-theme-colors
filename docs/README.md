@@ -16,6 +16,7 @@
 ## Table Of Contents
 
 - [dark](./dark.md)
+- [black](./black.md)
 - [default](./default.md)
 - [light](./light.md)
 - [transparent](./transparent.md)
