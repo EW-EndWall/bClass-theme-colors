@@ -1,0 +1,84 @@
+/*
+ * * Bclass colors v2.0.0
+ * * Copyright 2021 ("https://github.com/EW-EndWall/bClass-colors/blob/main/LICENSE")
+ * * Licensed ("Bik Public License 2.0")
+ * * License Update ("03/28/2024")
+*/
+/* * color white wave */
+body.white-wave {
+  --headerBg: #c3c3c3;
+  --footerBg: #c3c3c3;
+  --headerText: #878787;
+  --footerText: #878787;
+  --contentBg: #e1e1e1;
+  --contentBgPrimary: #a5a5a5;
+  --contentBgSecondary: #c3c3c3;
+  --contentTextPrimary: #878787;
+  --contentTextSecondary: #424242;
+  --plainBg: #cfd8dc;
+}
+/* * color white angel */
+body.white-angel {
+  --headerBg: #b8afc3;
+  --footerBg: #b8afc3;
+  --headerText: #7c7387;
+  --footerText: #7c7387;
+  --contentBg: #d6cde1;
+  --contentBgPrimary: #b8afc3;
+  --contentBgSecondary: #9a91a5;
+  --contentTextPrimary: #7c7387;
+  --contentTextSecondary: #424242;
+  --plainBg: #f4ebff;
+}
+/* * color snow white */
+body.snow-white {
+  --headerBg: #afafaf;
+  --footerBg: #afafaf;
+  --headerText: #0b0b0b;
+  --footerText: #0b0b0b;
+  --contentBg: #d2d4dc;
+  --contentBgPrimary: #f8f8fa;
+  --contentBgSecondary: #c0c2ce;
+  --contentTextPrimary: #0b0b0b;
+  --contentTextSecondary: #424242;
+  --plainBg: #f4ebff;
+}
+/* * color blue crane */
+body.blue-crane {
+  --headerBg: #6fccea;
+  --footerBg: #6fccea;
+  --headerText: #003554;
+  --footerText: #003554;
+  --contentBg: #6fccea;
+  --contentBgPrimary: #c7ebf8;
+  --contentBgSecondary: #00a9dd;
+  --contentTextPrimary: #003554;
+  --contentTextSecondary: #e9f6fb;
+  --plainBg: #f4ebff;
+}
+/* * color soft purple */
+body.soft-purple {
+  --headerBg: #ccccff;
+  --footerBg: #ccccff;
+  --headerText: #7272a5;
+  --footerText: #7272a5;
+  --contentBg: #ccccff;
+  --contentBgPrimary: #aeaee1;
+  --contentBgSecondary: #9090c3;
+  --contentTextPrimary: #7272a5;
+  --contentTextSecondary: #545487;
+  --plainBg: #f4ebff;
+}
+/* * color sky */
+body.sky {
+  --headerBg: #87ceeb;
+  --footerBg: #87ceeb;
+  --headerText: #2d7491;
+  --footerText: #2d7491;
+  --contentBg: #87ceeb;
+  --contentBgPrimary: #69b0cd;
+  --contentBgSecondary: #4b92af;
+  --contentTextPrimary: #2d7491;
+  --contentTextSecondary: #0f5673;
+  --plainBg: #f4ebff;
+}
