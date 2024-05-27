@@ -82,3 +82,172 @@ body.sky {
   --contentTextSecondary: #0f5673;
   --plainBg: #f4ebff;
 }
+/* * color green wave */
+body.green-wave {
+  --headerBg: #10e0d2;
+  --footerBg: #10e0d2;
+  --headerText: #008678;
+  --footerText: #008678;
+  --contentBg: #10e0d2;
+  --contentBgPrimary: #00c2b4;
+  --contentBgSecondary: #00a496;
+  --contentTextPrimary: #008678;
+  --contentTextSecondary: #00685a;
+  --plainBg: #f4ebff;
+}
+/* * color blue wave */
+body.blue-wave {
+  --headerBg: #00aaff;
+  --footerBg: #00aaff;
+  --headerText: #0050a5;
+  --footerText: #0050a5;
+  --contentBg: #00aaff;
+  --contentBgPrimary: #008ce1;
+  --contentBgSecondary: #006ec3;
+  --contentTextPrimary: #0050a5;
+  --contentTextSecondary: #003287;
+  --plainBg: #f4ebff;
+}
+/* * color classic green */
+body.classic-green {
+  --headerBg: #83ce9e;
+  --footerBg: #83ce9e;
+  --headerText: #297444;
+  --footerText: #297444;
+  --contentBg: #83ce9e;
+  --contentBgPrimary: #65b080;
+  --contentBgSecondary: #479262;
+  --contentTextPrimary: #297444;
+  --contentTextSecondary: #0b5626;
+  --plainBg: #f4ebff;
+}
+/* * color pinkish */
+body.pinkish {
+  --headerBg: #cf35ff;
+  --footerBg: #cf35ff;
+  --headerText: #7500a5;
+  --footerText: #7500a5;
+  --contentBg: #cf35ff;
+  --contentBgPrimary: #b117e1;
+  --contentBgSecondary: #9300c3;
+  --contentTextPrimary: #7500a5;
+  --contentTextSecondary: #570087;
+  --plainBg: #f4ebff;
+}
+/* * color deep ocean */
+body.deep-ocean {
+  --headerBg: #35a8c4;
+  --footerBg: #35a8c4;
+  --headerText: #004e6a;
+  --footerText: #004e6a;
+  --contentBg: #35a8c4;
+  --contentBgPrimary: #178aa6;
+  --contentBgSecondary: #006c88;
+  --contentTextPrimary: #004e6a;
+  --contentTextSecondary: #00304c;
+  --plainBg: #f4ebff;
+}
+/* * color spring */
+body.spring {
+  --headerBg: #b9f01c;
+  --footerBg: #b9f01c;
+  --headerText: #5f9600;
+  --footerText: #5f9600;
+  --contentBg: #b9f01c;
+  --contentBgPrimary: #9bd200;
+  --contentBgSecondary: #7db400;
+  --contentTextPrimary: #5f9600;
+  --contentTextSecondary: #417800;
+  --plainBg: #f4ebff;
+}
+/* * color autumn */
+body.autumn {
+  --headerBg: #f8aa47;
+  --footerBg: #f8aa47;
+  --headerText: #9e5000;
+  --footerText: #9e5000;
+  --contentBg: #f8aa47;
+  --contentBgPrimary: #da8c29;
+  --contentBgSecondary: #bc6e0b;
+  --contentTextPrimary: #9e5000;
+  --contentTextSecondary: #803200;
+  --plainBg: #f4ebff;
+}
+/* * color coffee */
+body.coffee {
+  --headerBg: #d8b256;
+  --footerBg: #d8b256;
+  --headerText: #7e5800;
+  --footerText: #7e5800;
+  --contentBg: #d8b256;
+  --contentBgPrimary: #ba9438;
+  --contentBgSecondary: #9c761a;
+  --contentTextPrimary: #7e5800;
+  --contentTextSecondary: #603a00;
+  --plainBg: #f4ebff;
+}
+/* * color strong coffee */
+body.strong-coffee {
+  --headerBg: #e1983f;
+  --footerBg: #e1983f;
+  --headerText: #873e00;
+  --footerText: #873e00;
+  --contentBg: #e1983f;
+  --contentBgPrimary: #c37a21;
+  --contentBgSecondary: #a55c03;
+  --contentTextPrimary: #873e00;
+  --contentTextSecondary: #692000;
+  --plainBg: #f4ebff;
+}
+/* * color cute purple */
+body.cute-purple {
+  --headerBg: #c6b8fb;
+  --footerBg: #c6b8fb;
+  --headerText: #6c5ea1;
+  --footerText: #6c5ea1;
+  --contentBg: #c6b8fb;
+  --contentBgPrimary: #a89add;
+  --contentBgSecondary: #8a7cbf;
+  --contentTextPrimary: #6c5ea1;
+  --contentTextSecondary: #4e4083;
+  --plainBg: #f4ebff;
+}
+/* * color open ocean */
+body.open-ocean {
+  --headerBg: #8dc8fc;
+  --footerBg: #8dc8fc;
+  --headerText: #336ea2;
+  --footerText: #336ea2;
+  --contentBg: #8dc8fc;
+  --contentBgPrimary: #6faade;
+  --contentBgSecondary: #518cc0;
+  --contentTextPrimary: #336ea2;
+  --contentTextSecondary: #155084;
+  --plainBg: #f4ebff;
+}
+/* * color taxi */
+body.taxi {
+  --headerBg: #f6e349;
+  --footerBg: #f6e349;
+  --headerText: #9c8900;
+  --footerText: #9c8900;
+  --contentBg: #f6e349;
+  --contentBgPrimary: #d8c52b;
+  --contentBgSecondary: #baa70d;
+  --contentTextPrimary: #9c8900;
+  --contentTextSecondary: #7e6b00;
+  --plainBg: #f4ebff;
+}
+/* * color light pink */
+body.light-pink {
+  --headerBg: #e80fcf;
+  --footerBg: #e80fcf;
+  --headerText: #8e0075;
+  --footerText: #8e0075;
+  --contentBg: #e80fcf;
+  --contentBgPrimary: #ca00b1;
+  --contentBgSecondary: #ac0093;
+  --contentTextPrimary: #8e0075;
+  --contentTextSecondary: #700057;
+  --plainBg: #f4ebff;
+}
