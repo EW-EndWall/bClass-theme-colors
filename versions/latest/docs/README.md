@@ -1,1 +1,31 @@
--
+# Colors
+
+Body class.
+
+- .white-wave
+- .white-angel
+- .snow-white
+- .blue-crane
+- .soft-purple
+- .sky
+- .green-wave
+- .blue-wave
+- .classic-green
+- .pinkish
+- .deep-ocean
+- .spring
+- .autumn
+- .coffee
+- .strong-coffee
+- .cute-purple
+- .open-ocean
+- .taxi
+- .light-pink
+- .soft-navy-blue
+- .ultraviolet
+- .red-sparrow
+- .deep-coffee
+- .strong-purple
+- .purple-of-blue
+- .deep-turquoise
+- .middle-layer
