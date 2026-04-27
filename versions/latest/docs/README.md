@@ -1,31 +1,13 @@
-# Colors
+## Available Documentation Languages
 
-Body class.
+| Language   | File                                       |
+| ---------- | ------------------------------------------ |
+| 🇹🇷 Turkish | [documentation-tr.md](documentation-tr.md) |
+| 🇬🇧 English | [documentation-en.md](documentation-en.md) |
+| 🇩🇪 German  | [documentation-de.md](documentation-de.md) |
+| 🇷🇺 Russian | [documentation-ru.md](documentation-ru.md) |
+| 🇦🇪 Arabic  | [documentation-ar.md](documentation-ar.md) |
 
-- .white-wave
-- .white-angel
-- .snow-white
-- .blue-crane
-- .soft-purple
-- .sky
-- .green-wave
-- .blue-wave
-- .classic-green
-- .pinkish
-- .deep-ocean
-- .spring
-- .autumn
-- .coffee
-- .strong-coffee
-- .cute-purple
-- .open-ocean
-- .taxi
-- .light-pink
-- .soft-navy-blue
-- .ultraviolet
-- .red-sparrow
-- .deep-coffee
-- .strong-purple
-- .purple-of-blue
-- .deep-turquoise
-- .middle-layer
+## Usage
+
+For detailed implementation instructions, please refer to the documentation in your preferred language.
