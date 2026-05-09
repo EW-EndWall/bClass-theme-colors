@@ -1,4 +1,4 @@
-# bClass Theme Colors Dokumentation
+# bClass theme colors
 
 ## Übersicht
 
@@ -59,4 +59,4 @@ Jedes Theme definiert die folgenden CSS-Variablen:
 
 ## Lizenz
 
-Dieses Projekt ist unter der Bik Public License 2.0 lizenziert.
+> Veröffentlicht unter der Bik Public License 2.0. Weitere Informationen finden Sie in der [LICENSE](./../../../LICENSE).

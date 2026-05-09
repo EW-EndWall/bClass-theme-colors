@@ -1,4 +1,4 @@
-# وثائق ألوان موضوع bClass
+# bClass theme colors
 
 ## نظرة عامة
 
@@ -59,4 +59,4 @@
 
 ## الترخيص
 
-هذا المشروع مرخص تحت رخصة Bik Public License 2.0.
+> يتم التوزيع بموجب ترخيص Bik Public License 2.0. راجع ملف [LICENSE](./../../../LICENSE) لمزيد من المعلومات.

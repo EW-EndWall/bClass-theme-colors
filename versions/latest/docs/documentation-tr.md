@@ -1,4 +1,4 @@
-# bClass Tema Renkleri Dokümantasyonu
+# bClass theme colors
 
 ## Genel Bakış
 
@@ -59,4 +59,4 @@ Her tema aşağıdaki CSS değişkenlerini tanımlar:
 
 ## Lisans
 
-Bu proje Bik Public License 2.0 altında lisanslanmıştır.
+> Bik Public License 2.0 Lisansı kapsamında dağıtılmaktadır. Daha fazla bilgi için [LICENSE](./../../../LICENSE) dosyasına göz atın.
